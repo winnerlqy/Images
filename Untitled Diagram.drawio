@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T12:48:52.045Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="S01fvL78LJNUqRxk_Ogi" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-21T13:00:13.276Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="dn6StaltQi5h-Y0QParY" version="16.6.1" type="github">
   <diagram id="o3be76gck5MH5FPR8f1Z" name="Page-1">
     <mxGraphModel dx="878" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,8 +46,8 @@
         <mxCell id="uUX-1m_Qmzv8y-TxKIE5-15" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="730" width="220" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="uUX-1m_Qmzv8y-TxKIE5-16" value="数组a[n]是b[n]前缀和，b[n]是a[n]差分数列" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="460" y="840" width="240" height="20" as="geometry" />
+        <mxCell id="uUX-1m_Qmzv8y-TxKIE5-16" value="数组a[N]是b[N]前缀和，b[N]是a[N]差分数列" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="840" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uUX-1m_Qmzv8y-TxKIE5-18" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;fillColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="510" y="730" width="110" height="10" as="geometry" />
