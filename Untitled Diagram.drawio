@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-22T01:53:43.644Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="mTW1JdQpVQOgNjXWk35L" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-22T04:05:04.033Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="RA3-OMzcK_Nh-zZir6LU" version="16.6.1" type="github" pages="2">
   <diagram id="o3be76gck5MH5FPR8f1Z" name="Page-1">
     <mxGraphModel dx="878" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -106,8 +106,8 @@
         <mxCell id="-n4rWS5zZjnO6EtjGAZG-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;sketch=0;glass=0;rounded=0;gradientColor=none;strokeColor=#000000;fillColor=#FFD966;" vertex="1" parent="1">
           <mxGeometry x="210" y="960" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-n4rWS5zZjnO6EtjGAZG-4" value="(x,y)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="170" y="940" width="40" height="20" as="geometry" />
+        <mxCell id="-n4rWS5zZjnO6EtjGAZG-4" value="(x1,y1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="940" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-n4rWS5zZjnO6EtjGAZG-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -179,7 +179,7 @@
             <mxPoint x="340" y="1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-n4rWS5zZjnO6EtjGAZG-21" value="设a[N][M]为b[N][M]前缀和，即b[N][M]为a[N][M]的差分序列&lt;br&gt;则&lt;font color=&quot;#ff0000&quot;&gt;b[x][y] + T可使得a[x][y]右下角区域内元素，全部加T&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="-n4rWS5zZjnO6EtjGAZG-21" value="设a[N][M]为b[N][M]前缀和，即b[N][M]为a[N][M]的差分序列&lt;br&gt;则&lt;font color=&quot;#ff0000&quot;&gt;b[x1][y1] + T可使得a[x1][y1]右下角区域内元素，全部加T&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="70" y="860" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-n4rWS5zZjnO6EtjGAZG-22" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FF0000;" edge="1" parent="1">
@@ -197,12 +197,23 @@
             <mxPoint x="130" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-n4rWS5zZjnO6EtjGAZG-25" value="&lt;font color=&quot;#0000ff&quot;&gt;b[x][y] + T&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#00FF00;" vertex="1" parent="1">
-          <mxGeometry x="25" y="990" width="70" height="20" as="geometry" />
+        <mxCell id="-n4rWS5zZjnO6EtjGAZG-25" value="&lt;font color=&quot;#0000ff&quot;&gt;b[x1][y1] + T&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="20" y="990" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-n4rWS5zZjnO6EtjGAZG-26" value="&lt;font color=&quot;#ff0000&quot;&gt;利用上述性质，可以高效率实现a[N][M]的子矩阵加操作&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;如：实现a[N][M]在橙色区域内元素，全部加T&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="90" y="1095" width="310" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="rXsURM7nwXsA1M3YX5tB-3" value="(x2,y2)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1000" width="50" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="e2VMJtbCGcviP_dw3gVf" name="Page-2">
+    <mxGraphModel dx="878" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="NELo6Tz_vJK8SPd1xlsT-0" />
+        <mxCell id="NELo6Tz_vJK8SPd1xlsT-1" parent="NELo6Tz_vJK8SPd1xlsT-0" />
       </root>
     </mxGraphModel>
   </diagram>
