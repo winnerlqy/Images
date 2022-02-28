@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T02:49:04.084Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="UmsjAneT7MEGhFDEugM7" version="16.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-28T08:24:24.517Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="OmVpuuau2FhrV1keau6T" version="16.6.4" type="github" pages="2">
   <diagram id="o3be76gck5MH5FPR8f1Z" name="Page-1">
     <mxGraphModel dx="878" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -487,8 +487,8 @@
         <mxCell id="VW_TICcxO-KXgmTKnj7X-7" value="拉链法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="NELo6Tz_vJK8SPd1xlsT-1">
           <mxGeometry x="310" y="890" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VW_TICcxO-KXgmTKnj7X-8" value="字符串哈希方式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="NELo6Tz_vJK8SPd1xlsT-1">
-          <mxGeometry x="210" y="920" width="100" height="20" as="geometry" />
+        <mxCell id="VW_TICcxO-KXgmTKnj7X-8" value="字符串哈希方式---字符串前缀哈希法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="NELo6Tz_vJK8SPd1xlsT-1">
+          <mxGeometry x="210" y="920" width="210" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
